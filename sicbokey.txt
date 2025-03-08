@@ -1,4 +1,3 @@
-# Key Test không giới hạn thiết bị, thời gian sử dụng 7 ngày
-telesg205rika|1684252800|ANY|ANY
+telesg205rika|9999999999|ANY|ANY
 adminsg205rika|99999999|ANY|ANY
 user1|19999999
