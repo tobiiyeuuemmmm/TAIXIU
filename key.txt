@@ -1,0 +1,5 @@
+telesg205rika,7d  # Key test, không giới hạn thiết bị, 7 ngày
+taixiusun,1d  # Key 1 ngày
+Buyer1,7d  # Key 7 ngày
+testkey30,30d  # Key 30 ngày
+adminkey,admin  # Key admin vĩnh viễn
