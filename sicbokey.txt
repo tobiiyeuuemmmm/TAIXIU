@@ -1,2 +1,2 @@
 testtoolsicbov2|99999999
-adminWang
+adminWang|0
