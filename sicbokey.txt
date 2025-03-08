@@ -1,1 +1,2 @@
-
+adminsg205rika|99999999|ANY|ANY
+user1|19999999
