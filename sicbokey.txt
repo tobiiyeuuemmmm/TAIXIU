@@ -1,3 +1,3 @@
-test30D|1767225600
-adminSG205Rika|0
+testTeleSg205rika|1767225600
+adminTeleSg205rika|0
 keymuaExampleKey|1767225600
