@@ -1,2 +1,4 @@
-admin123|admin|vĩnh viễn
-buy406|buy|2025-04-01
+admin979:admin:vĩnh viễn  
+buyxxx:buy:7 ngày  
+buyyyy:buy:30 ngày  
+buyzzz:buy:vĩnh viễn
