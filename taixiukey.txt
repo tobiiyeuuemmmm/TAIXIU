@@ -1,4 +1,2 @@
 admin979:admin:vĩnh viễn  
-buyxxx:buy:7 ngày  
-buyyyy:buy:30 ngày  
-buyzzz:buy:vĩnh viễn
+buy198:buy:7 ngày  
